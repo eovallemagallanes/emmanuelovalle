@@ -1,7 +1,7 @@
 ---
 title: Emmanuel Ovalle Magallanes
 role: PhD Student in Ingeniering Division
-avatar_filename: ovallemagallanes_e.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include computer vision, optimization and machine
   learning.
 interests:
