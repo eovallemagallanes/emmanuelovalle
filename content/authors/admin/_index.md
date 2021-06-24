@@ -1,6 +1,6 @@
 ---
 title: Emmanuel Ovalle Magallanes
-role: PhD Student in Ingeniering Division at Universidad de Guanajuato
+role: PhD Student in Ingeniering Division
 avatar_filename: profile_photo.jpg
 bio: My research interests include computer vision, optimization and machine
   learning.
@@ -14,7 +14,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: e.ovallemagallanes@ugto.mx
+    link: mailto:e.ovallemagallanes@ugto.mx
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=zql1lk8AAAAJ&hl=es
@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD Student
       institution: Universidad de Guanajuato
-      year: ""
+      year: 2019
     - course: MSc in Computer Science and Industrial Mathematics
       institution: Centro de Investigación en Matemáticas
       year: 2016
