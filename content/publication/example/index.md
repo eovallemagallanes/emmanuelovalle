@@ -1,4 +1,14 @@
 ---
+title: Hybrid classical–quantum Convolutional Neural Network for stenosis
+  detection in X-ray coronary angiography
+publication_types:
+  - "2"
+authors:
+  - Emmanuel Ovalle-Magallanes
+  - Juan Gabriel Avina-Cervantes
+  - Ivan Cruz-Aceves
+  - Jose Ruiz-Pinales
+publication_short: In *ESWA*
 abstract: >-
   Despite advances in Deep Learning, the Convolutional Neural Networks methods
   still manifest limitations
@@ -32,17 +42,16 @@ abstract: >-
   paradigm in the accuracy of 9%, recall of 20%, and F1-score of 11%, reaching 91.8033%, 94.9153%, and
 
   91.8033%, respectively.
+draft: true
+featured: true
+tags: []
 slides: ""
 url_pdf: ""
-publication_types:
-  - "2"
-authors:
-  - Emmanuel Ovalle-Magallanes
-  - Juan Gabriel Avina-Cervantes
-  - Ivan Cruz-Aceves
-  - Jose Ruiz-Pinales
-author_notes: []
-publication: In *Expert Systems with Applications*
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+  filename: 0_graphical_abstract.jpg
 summary: "In this study, the emerging field of quantum computing is applied in
   the context of hybrid neural networks. So, a hybrid transfer-learning paradigm
   is used for stenosis detection, where a quantum network drives and improves
@@ -57,23 +66,15 @@ summary: "In this study, the emerging field of quantum computing is applied in
   without compromising the stenosis detection performance. "
 url_dataset: ""
 url_project: ""
-publication_short: In *ESWA*
 url_source: ""
 url_video: ""
-title: Hybrid classical–quantum Convolutional Neural Network for stenosis
-  detection in X-ray coronary angiography
+author_notes: []
 doi: 10.1016/j.eswa.2021.116112
-featured: true
-tags: []
+publication: In *Expert Systems with Applications*
 projects: []
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-  filename: 0_graphical_abstract.jpg
 date: 2021-11-15T23:26:54.113Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
