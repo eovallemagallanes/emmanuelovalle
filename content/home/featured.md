@@ -7,7 +7,7 @@ title: Hybrid classical–quantum Convolutional Neural Network for stenosis
   detection in X-ray coronary angiography
 subtitle: Emmanuel Ovalle-Magallanes, Juan Gabriel Avina-Cervantes, Ivan
   Cruz-Aceves, Jose Ruiz-Pinales
-active: true
+active: false
 content:
   page_type: publication
   count: 0
